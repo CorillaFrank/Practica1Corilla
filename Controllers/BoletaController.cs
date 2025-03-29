@@ -6,37 +6,38 @@ using System;
  using Microsoft.AspNetCore.Mvc;
  using Microsoft.Extensions.Logging;
  using Practica1Corilla.Models;
-
-namespace Practica1Corilla.Controllers
-    
-    public class BoletaController : Controller
-    {
-        private readonly ILogger<BoletaController> _logger;
-
-        public BoletaController(ILogger<BoletaController> logger)
-        {
-            _logger = logger;
-        }
-
-        public IActionResult Index()
-        {
-            return View();
-        }
-        
-        [HttpPost]
-        public IActionResult Generar(BoletaModel model)
-        {
-            if (ModelState.IsValid)
-            {
-                return View("BoletaGenerada", model);
-            }
-            return View("Index", model);
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View("Error!");
-        }
-    }
-}
+ 
+ namespace Practica1Corilla.Controllers
+ {
+     
+     public class BoletaController : Controller
+     {
+         private readonly ILogger<BoletaController> _logger;
+ 
+         public BoletaController(ILogger<BoletaController> logger)
+         {
+             _logger = logger;
+         }
+ 
+         public IActionResult Index()
+         {
+             return View();
+         }
+         
+         [HttpPost]
+         public IActionResult Generar(BoletaModel model)
+         {
+             if (ModelState.IsValid)
+             {
+                 return View("BoletaGenerada", model);
+             }
+             return View("Index", model);
+         }
+ 
+         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+         public IActionResult Error()
+         {
+             return View("Error!");
+         }
+     }
+ }

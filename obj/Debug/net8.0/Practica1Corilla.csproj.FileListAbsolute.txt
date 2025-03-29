@@ -1,11 +1,3 @@
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\appsettings.json
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.staticwebassets.runtime.json
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.exe
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.deps.json
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.runtimeconfig.json
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.dll
-C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.pdb
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.AssemblyInfoInputs.cache
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.AssemblyInfo.cs
@@ -14,6 +6,14 @@ C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.MvcAppl
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.RazorAssemblyInfo.cache
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.RazorAssemblyInfo.cs
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\Practica1Corilla.sourcelink.json
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.staticwebassets.runtime.json
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.exe
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.deps.json
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.runtimeconfig.json
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.dll
+C:\Users\USER\Desktop\Practica1Corilla\bin\Debug\net8.0\Practica1Corilla.pdb
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\USER\Desktop\Practica1Corilla\obj\Debug\net8.0\staticwebassets\msbuild.Practica1Corilla.Microsoft.AspNetCore.StaticWebAssets.props
