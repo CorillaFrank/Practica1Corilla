@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practica1Corilla.props" />
+</Project>
